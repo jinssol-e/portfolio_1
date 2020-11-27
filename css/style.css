@@ -365,7 +365,7 @@ div[id ^= "main_"] {
 }
 #main_portfolio .portfolio_box .content div {
     width: 400px;
-    height: 300px;
+    height: 280px;
     float: left;
     margin-left: 60px;
     margin-top: 60px;
